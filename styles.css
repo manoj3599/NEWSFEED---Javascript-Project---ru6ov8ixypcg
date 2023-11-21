@@ -1,76 +1,87 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.head{
+
+.head {
     background-color: black;
     color: white;
     height: 65px;
 }
-.top-btn{
+
+.top-btn {
     width: 100px;
     height: 40px;
 }
-.top-btn img{
+
+.top-btn img {
     height: 40px;
     width: 20px;
 }
 
-.img{
+.img {
     height: 60px;
     width: 130px;
     float: left;
 }
 
-.logo{
+.logo {
     height: 60px;
     width: 130px;
     float: right;
 }
-.start{
+
+.start {
     height: 60px;
     width: 1600px;
     float: left;
 
 }
-.start img{
+
+.start img {
     height: 60px;
     width: 40px;
     margin-left: 340px;
 
 }
-.start h2{
+
+.start h2 {
     margin-left: 340px !important;
     font-weight: bold;
     color: gray;
 }
-.main-div{
+
+.main-div {
     margin: auto;
     top: 5%;
-  width: 50%;
-  height: 200px;
-  margin-top: 100px;
-  padding: 10px;
-  background-color: black;
-  border-radius: 25px;
+    width: 50%;
+    height: 200px;
+    margin-top: 100px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 25px;
 }
-.top-text{
+
+.top-text {
     text-align: center;
     background-color: white;
     width: 60%;
     margin: auto;
     height: 50px;
 }
-#div-container{
+
+#div-container {
     margin-top: 30px;
 }
-.top-text h3{
+
+.top-text h3 {
     position: relative;
     font-weight: bold;
     color: black;
     align-items: center;
 }
-#btn1{
+
+#btn1 {
     display: inline-block;
     margin-left: 33px;
     width: 197px;
@@ -80,7 +91,8 @@
     color: black;
     font-weight: bold;
 }
-#btn2{
+
+#btn2 {
     display: inline-block;
     margin-left: 40px;
     width: 197px;
@@ -91,61 +103,68 @@
     color: black;
     font-weight: bold;
 }
-.second-div{
+
+.second-div {
     margin: auto;
     top: 5%;
-  width: 50%;
-  margin-top: 100px;
-  padding: 10px;
+    width: 50%;
+    margin-top: 100px;
+    padding: 10px;
 }
-.saved{
+
+.saved {
     height: 55px;
     width: 650px;
     justify-content: space-evenly;
     background-color: black;
     border-radius: 12px;
 }
-.btnx0{
+
+.btnx0 {
     height: 35px;
     width: 210px;
-   background-color: white;
-   font-weight: bold;
-   margin-top: 8px;
-   margin-left: 5px;
+    background-color: white;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-left: 5px;
 }
-.btnx{
+
+.btnx {
     height: 35px;
     width: 120px;
-   background-color: white;
-   font-weight: bold;
-   margin-top: 8px;
-   margin-left: 5px;
+    background-color: white;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-left: 5px;
 }
-.btnx1{
+
+.btnx1 {
     height: 30px;
     width: 106px;
     background-color: rgb(247, 247, 76);
-   border-radius: 10px;
-   font-weight: bold;
-   margin: 2px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 2px;
 }
-.btnx2{
+
+.btnx2 {
     height: 30px;
     width: 190px;
     background-color: rgb(247, 247, 76);
-   border-radius: 10px;
-   font-weight: bold;
+    border-radius: 10px;
+    font-weight: bold;
 }
-.btnx3{
+
+.btnx3 {
     height: 30px;
     width: 164px;
     background-color: rgb(247, 247, 76);
-   border-radius: 10px;
-   font-weight: bold;
-   margin: 2px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 2px;
 }
 
-.textarea{
+.textarea {
     position: relative;
     width: 96%;
     height: auto;
@@ -153,29 +172,34 @@
     background-color: lightgrey;
     border-radius: 15px;
 }
-.myicon{
+
+.myicon {
     cursor: pointer;
 }
-.third-div{
+
+.third-div {
     margin: auto;
     top: 5%;
-  width: 50%;
-  margin-top: 100px;
-  padding: 10px;
+    width: 50%;
+    margin-top: 100px;
+    padding: 10px;
 }
-.categories{
+
+.categories {
     height: 120px;
     width: 650px;
     justify-content: space-evenly;
     background-color: black;
     border-radius: 12px;
 }
-.oneline{
+
+.oneline {
     display: flex;
     margin: 5px;
     justify-content: space-between;
 }
-.content{
+
+.content {
     text-align: center;
     background-color: white;
     width: 60%;
@@ -183,18 +207,21 @@
     height: 50px;
     margin-top: 25px;
 }
-.right{
+
+.right {
     float: right;
 }
-i{
+
+i {
     height: 5px;
     width: 20px;
-    position:absolute;
+    position: absolute;
     right: 5px;
     bottom: 5px;
     color: black;
-    
+
 }
-.second-div .stored .myicon{
+
+.second-div .stored .myicon {
     color: red;
 }
